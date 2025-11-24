@@ -19,10 +19,10 @@ conda create -n ragbot python=3.10 -y
 conda activate ragbot
 ```
 
-### Step 02 — Install the requirements
 
-```bash
-pip install -r requirements.txt
-```
+### STEP 02- install the requirements
+``bash
+ pip install -r requirements.txt
+  ```
 
 
