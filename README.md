@@ -22,7 +22,7 @@ conda activate ragbot
 
 ### STEP 02- install the requirements
 
-``bash
+```bash
  pip install -r requirements.txt
   ```
 
